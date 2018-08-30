@@ -3,11 +3,11 @@
 ### JavaScript String Literals
 
 What will the output from the JavaScript below using string literals be?
-
+```
 let theAnswer = 2112;
 let str = `The answer to the ultimate question: {theAnswer}`;
 alert(str);
-
+```
 An alert box that displays 'The answer to the ultimate question: 2112'
 
 An alert box that displays 'Undefined'
@@ -364,7 +364,7 @@ A list of random letters
 ### Events
 
 You load the following page in the browser:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -386,7 +386,7 @@ You load the following page in the browser:
          </script>
 </body>
 </html>
-
+```
 You click on the text in the paragraph three times.
 
 What gets displayed in the div with id result after the consecutive clicks?
