@@ -95,27 +95,44 @@ The experimentWithTries() function in the following HTML page throws and catches
 
 
 Starting the process...  
+
 Error: Something went wrong
+
 The inner finally block  
-Error: Error: Something went wrong
+
+Error: Error: Something went wrong 
+
 The outer finally block  
+
 Glad to be done!
 
 
+
 Starting the process...  
+
 Error: Something went wrong 
-Error: Error: Something went wrong
+
+Error: Error: Something went wrong 
+
 The outer finally block  
-Glad to be done!
+
+Glad to be done! 
+
 
 
 Starting the process...  
-Error: Something went wrong
-Ending the process...
-The inner finally block  
-Error: Error: Something went wrong
-The outer finally block  
-Glad to be done!
+
+Error: Something went wrong 
+
+Ending the process... 
+
+The inner finally block   
+
+Error: Error: Something went wrong 
+
+The outer finally block   
+
+Glad to be done! 
 
 
 <hr/>
