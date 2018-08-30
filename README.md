@@ -257,16 +257,7 @@ http://localhost:35132/Account/FormTest/GET/#first=John?last=Doe
 
 ### HTML5 Form Elements how fields are submitted
 
-You are redesigning the form for the enrollment section of a college website. One of the elements on the page is the SAT score.
-
-You need to choose the best input type to use for this element.
-
-* What is the BEST input type to use for values like an SAT score?
-
-text
-select box
-number
-range
+I USED THIS QUESTION FOR A QUESTION OF THE DAY. DELETED
 
 <hr/>
 
