@@ -23,7 +23,7 @@ Given the following code:
 
 ```
 function goDoIt(doWhat) {
-    alert(`Just go and do ${doWhat}`);
+    alert(`Just go and ${doWhat}`);
 }
 
 slacker =
@@ -42,7 +42,7 @@ slacker.goDoIt("Get a job!");
 
 An alert box with an empty message
 
-An alert box saying "Get a Job!"
+An alert box saying "Just go and Get a Job!"
 
 No alert dialog box but an error instead
 
