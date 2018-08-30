@@ -38,7 +38,7 @@ slacker.goDoIt("Get a job!");
 
 ```
 
-What will the result of the JavaScript code be?
+* What will the result of the JavaScript code be?
 
 An alert box with an empty message
 
@@ -91,7 +91,7 @@ The experimentWithTries() function in the following HTML page throws and catches
 </html>
 ```
 
-What will be displayed in the console when the page is loaded in the browser?
+* What will be displayed in the console when the page is loaded in the browser?
 
 
 Starting the process...  
@@ -155,9 +155,9 @@ An HTML page contains the following:
 </html>
 ```
 
-You load the page in the browser, and you enter these values before canceling out of the confirm dialog: test, 5, and 8/11/2017.
+* You load the page in the browser, and you enter these values before canceling out of the confirm dialog: test, 5, and 8/11/2017.
 
-What will be displayed in the console window?
+* What will be displayed in the console window?
 
 The type is: undefined
 The type is: undefined
@@ -207,7 +207,7 @@ You have the following HTML page:
 </html>
 ```
 
-What will be displayed on the screen when the page is loaded in the browser?
+* What will be displayed on the screen when the page is loaded in the browser?
 
 Intro to JavaScript
 
@@ -240,9 +240,9 @@ You have the following form (assume it's loaded from http://localhost:35132/Acco
  </form>
 ```
 
-A user fills out the form with 'John' in the first name and 'Doe' in the last name.
+* A user fills out the form with 'John' in the first name and 'Doe' in the last name.
 
-Which URL will the form submit?
+* Which URL will the form submit?
 
 
 http://localhost:35132/Account/FormTest
@@ -261,7 +261,7 @@ You are redesigning the form for the enrollment section of a college website. On
 
 You need to choose the best input type to use for this element.
 
-What is the BEST input type to use for values like an SAT score?
+* What is the BEST input type to use for values like an SAT score?
 
 text
 select box
@@ -308,7 +308,7 @@ You load the following page:
 </html>
 
 ```
-What will result contain?
+* What will result contain?
 
 F1F2F3F4F5F2F3F4F5F5F3F4F5
 
@@ -348,7 +348,7 @@ The body of an HTML page contains the following code:
 
 ```
 
-What will be displayed on the screen when this page is previewed in the browser?
+* What will be displayed on the screen when this page is previewed in the browser?
 
 An error message
 
@@ -387,9 +387,9 @@ You load the following page in the browser:
 </body>
 </html>
 ```
-You click on the text in the paragraph three times.
+* You click on the text in the paragraph three times.
 
-What gets displayed in the div with id result after the consecutive clicks?
+* What gets displayed in the div with id result after the consecutive clicks?
 
 
 246
