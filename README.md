@@ -164,7 +164,6 @@ An HTML page contains the following:
                 case String: return "string with value '" + input + "'";
                 case Number: return "number with value " + input;
                 case Date: return "date with value " + input;
-                case RegExp: return "regular expression with value " + input;
             }
         }
     </script>
@@ -397,13 +396,13 @@ You load the following page in the browser:
 ```
 * You click on the text in the paragraph three times.
 
-* What gets displayed in the div with id result after the consecutive clicks?
+* What gets displayed in the console with id result after the consecutive clicks?
 
 
-246
+2 4 6
 
-369
+3 6 9
 
-111
+1 1 1
 
-123
+1 2 3
